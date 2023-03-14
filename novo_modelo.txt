@@ -1,0 +1,35 @@
+Para apresentar os requisitos em conformidade com a norma ABNT NBR ISO/IEC 29148:2019 - Engenharia de Software - Requisitos e Processos, é necessário organizar as informações em seções específicas.
+
+Introdução
+1.1 Objetivos
+O objetivo deste documento é apresentar os requisitos de software para o sistema de Oficina Mecânica, com o propósito de definir as funcionalidades e características que o software deve possuir.
+1.2 Escopo
+O sistema de Oficina Mecânica será desenvolvido para gerenciar os serviços e vendas oferecidos pela loja, com o objetivo de facilitar a gestão das atividades realizadas pela equipe da oficina e melhorar o atendimento aos clientes.
+
+Requisitos Funcionais
+Os requisitos funcionais descrevem as funcionalidades que o sistema deve possuir para atender às necessidades dos usuários. São eles:
+2.1 Registro de serviços e vendas
+O sistema deve permitir o registro dos serviços e vendas realizados pela oficina, incluindo as informações do serviço, mecânico responsável e previsão de entrega, além de garantia e serviços adicionais que possam ser oferecidos.
+
+2.2 Cadastro de clientes
+O sistema deve permitir o cadastro dos clientes, com informações como nome, informações sobre o veículo, incluindo placa, CPF do cliente, necessário para acompanhamento do serviço pelo aplicativo/site, e contato do cliente, incluindo e-mail e instragram.
+
+2.3 Registro de vendas
+O sistema deve permitir o registro das vendas realizadas pela loja, com informações sobre os produtos em estoque, incluindo nome, valor, modelo, cor, desconto possível, quantidade e mecânico disponível, além da previsão de chegada de novos estoques e possíveis alterações de preço.
+
+2.4 Interação entre cliente e loja
+O sistema deve permitir a interação entre cliente e loja, incluindo o registro de veículo e cliente no aplicativo/site, acompanhamento do serviço realizado na oficina, incluindo serviços essenciais e opcionais, possibilidade de solicitação do cliente para ir pessoalmente na loja antes do mecânico começar o serviço, registro e gerenciamento de vendas realizadas, incluindo opções de entrega e encomenda, e informações sobre o próximo estoque disponível.
+
+Requisitos Não Funcionais
+Os requisitos não funcionais descrevem as características do sistema que não são relacionadas diretamente às funcionalidades, mas sim ao seu desempenho, segurança e usabilidade. São eles:
+3.1 Segurança
+O sistema deve garantir a segurança dos dados dos clientes e das vendas realizadas, com medidas de proteção e backup dos dados armazenados.
+
+3.2 Usabilidade
+O sistema deve ser fácil de usar e navegar, com uma interface intuitiva que permita aos usuários acessarem as funcionalidades de forma clara e simples.
+
+3.3 Desempenho
+O sistema deve apresentar um desempenho adequado, com tempo de resposta rápido e sem falhas ou interrupções no acesso às funcionalidades.
+
+Considerações Finais
+Este documento apresentou os requisitos de software para o sistema de Oficina Mecânica, com o objetivo de definir as funcionalidades e características que o software deve possuir. É importante lembrar que esses
